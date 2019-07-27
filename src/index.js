@@ -1,7 +1,6 @@
 import 'phaser';
 import BootScene from './scenes/BootScene';
 import GameScene from './scenes/GameScene';
-import constants from './constants';
 
 var config = {
 	type: Phaser.AUTO,
